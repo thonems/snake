@@ -19,7 +19,7 @@ This is a simple implementation of the classic Snake game written in Java using 
 3. **Objective**: Guide the snake to the food to grow longer. Avoid hitting the walls or the snake's own body.
 
 
-## Installation
+## Usage
 
 1. **Compile the Code**:
     ```sh
